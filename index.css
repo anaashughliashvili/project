@@ -1,0 +1,1000 @@
+.logo {
+    position: absolute;
+    height: 34px;
+    width: 300px;
+    left: 221.80902099609375px;
+    top: 24px;
+    border-radius: nullpx;
+    
+    font-family: Roboto;
+    font-size: 29px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    
+    /* identical to box height */
+    
+    color: #22262A;
+    
+    
+}
+.pages {
+
+    position: absolute;
+    height: 21px;
+    width: 700px;
+    left: 557.8079833984375px;
+    top: 31px;
+    border-radius: nullpx;    
+    color: #22262A;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.Rectangle_2{
+    position: absolute;
+    height: 745px;
+    width: 1593px;
+    left: -1px;
+    top: 84.7529296875px;
+    border-radius: 0px;
+    background: url("Rectangle 2.png");
+}
+.text1{
+    position: absolute;
+    height: 21px;
+    width: 300px;
+    left: 1016.1929931640625px;
+    top: 260.08203125px;
+    border-radius: nullpx;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.text2{
+  /* COLLUSION */
+
+position: absolute;
+height: 94px;
+width: 425px;
+left: 1015.1929931640625px;
+top: 286.35595703125px;
+border-radius: nullpx;
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 80px;
+line-height: 94px;
+
+/* identical to box height */
+
+color: #22262A;
+
+
+}
+.text3{
+    position: absolute;
+    height: 21px;
+    width: 600px;
+    left: 1017.1929931640625px;
+    top: 395.0830078125px;
+    border-radius: nullpx;
+
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.Rectangle_15{
+  
+
+    position:absolute;
+    height: 21px;
+    width: 85px;
+    left: 1039.5969848632812px;
+    top: 453.573974609375px;
+    padding: 12px;
+    padding-right: 30px;
+    border-radius: nullpx;
+    color:white;
+    background: #22262A;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.Rectangle_16{
+    /* SHOP NOW */
+
+position: absolute;
+height: 21px;
+width: 110px;
+left: 1205.4300537109375px;
+top: 453.573974609375px;
+border-radius: nullpx;
+
+padding: 12px;
+padding-right: 20px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+
+/* identical to box height */
+background: #22262A;
+color: #FFFFFF;
+}
+
+.pic1{
+
+position: absolute;
+height: 291px;
+width: 559px;
+left: 472px;
+top: 936.7529296875px;
+border-radius: 0px;
+
+background: url(1.png);
+}
+
+.pic2{
+
+position: absolute;
+height: 269px;
+width: 266px;
+left: 479px;
+top: 1255.7530517578125px;
+border-radius: 0px;
+
+
+background: url(3.png);
+}
+
+.pic3{
+
+position: absolute;
+height: 269px;
+width: 265px;
+left: 783px;
+top: 1255.7530517578125px;
+border-radius: 0px;
+
+
+background: url(4.png); 
+}
+.women{
+    position: absolute;
+    height: 23px;
+    width: 258px;
+    left: 660.906982421875px;
+    top: 1646.5870361328125px;
+    border-radius: nullpx;
+    
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #22262A;
+}
+.women2{
+    /* Shop our new arrivals from established brands */
+
+position: absolute;
+height: 18px;
+width: 360px;
+left: 595.3140258789062px;
+top: 1680.5899658203125px;
+border-radius: nullpx;
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+
+/* identical to box height */
+
+color: #22262A;
+}
+.pic4{
+    position: absolute;
+    height: 371px;
+    width: 268px;
+    left: 222px;
+    top: 1755.7530517578125px;
+    border-radius: 0px;
+    background: url("Rectangle 3.png");
+}
+.pic5{
+    position: absolute;
+    height: 371px;
+    width: 268px;
+    left: 515px;
+    top: 1755.7530517578125px;
+    border-radius: 0px;
+    
+    
+    background: url("Rectangle 3_2.png");
+}
+.pic6{
+    position: absolute;
+    height: 371px;
+    width: 268px;
+    left: 809px;
+    top: 1755.7530517578125px;
+    border-radius: 0px;
+    
+
+    background: url("Rectangle 3_3.png");
+}
+.pic7{
+    position: absolute;
+    height: 371px;
+    width: 268px;
+    left: 1102px;
+    top: 1755.7530517578125px;
+    border-radius: 0px;
+    
+    
+    background: url("Rectangle 3_4.png");
+}
+.iguera1{
+
+position: absolute;
+height: 14px;
+width: 42px;
+left:222px;
+top: 2153.1329345703125px;
+border-radius: nullpx;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+
+/* identical to box height */
+
+color: #22262A;
+
+
+}
+.iguera2{
+    position: absolute;
+    height: 14px;
+    width: 42px;
+    left: 515.3829956054688px;
+    top: 2153.1329345703125px;
+    border-radius: nullpx;
+    
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    
+    /* identical to box height */
+    
+    color: #22262A;
+}
+.iguera3{
+    position: absolute;
+    height: 14px;
+    width: 42px;
+    left: 809px;
+    top: 2153.1329345703125px;
+    border-radius: nullpx;
+    
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    
+    /* identical to box height */
+    
+    color: #22262A;
+}
+.iguera4{
+    position: absolute;
+    height: 14px;
+    width: 42px;
+    left: 1102px;
+    top: 2153.1329345703125px;
+    border-radius: nullpx;
+    
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    
+    /* identical to box height */
+    
+    color: #22262A;
+}
+.green1{
+    position: absolute;
+    height: 18px;
+    width: 221px;
+    left: 221.7509765625px;
+    top: 2186.1329345703125px;
+    border-radius: nullpx;
+    
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    
+    /* identical to box height */
+    
+    color: #22262A;
+    
+    
+}
+.green2{
+    position: absolute;
+    height: 18px;
+    width: 221px;
+    left: 514.7509765625px;
+    top: 2186.1329345703125px;
+    border-radius: nullpx;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    
+    /* identical to box height */
+    
+    color: #22262A;
+    
+    
+}
+.green3{
+    position: absolute;
+    height: 18px;
+    width: 221px;
+    left: 808.7520141601562px;
+    top: 2186.1329345703125px;
+    border-radius: nullpx;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    
+    /* identical to box height */
+    
+    color: #22262A;
+    
+    
+}
+.green4{
+    position: absolute;
+    height: 18px;
+    width: 221px;
+    left: 1101.751953125px;
+    top: 2186.1329345703125px;
+    border-radius: nullpx;    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    
+    /* identical to box height */
+    
+    color: #22262A;
+    
+    
+}
+.price1{
+    position: absolute;
+    height: 18px;
+    width: 96px;
+    left: 224.7509765625px;
+    top: 2222.1329345703125px;
+    border-radius: nullpx;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+
+    /* identical to box height */
+
+    color: #373737;
+
+
+}
+.price2{
+    position: absolute;
+    height: 18px;
+    width: 96px;
+    left: 517.7520141601562px;
+    top: 2222.1329345703125px;
+    border-radius: nullpx;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+
+    /* identical to box height */
+
+    color: #373737;
+
+
+    
+}
+.price3{
+    position: absolute;
+    height: 18px;
+    width: 96px;
+    left: 811.7509765625px;
+    top: 2222.1329345703125px;
+    border-radius: nullpx;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+
+    /* identical to box height */
+
+    color: #373737;
+
+
+}
+.price4{
+    position: absolute;
+    height: 18px;
+    width: 96px;
+    left: 1104.7509765625px;
+    top: 2222.1329345703125px;
+    border-radius: nullpx;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+
+    /* identical to box height */
+
+    color: #373737;
+
+
+}
+.women3{
+
+position: absolute;
+height: 23px;
+width: 220px;
+left: 704.906982421875px;
+top: 2350.589111328125px;
+border-radius: nullpx;
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #22262A;
+
+
+}
+.women4{
+    /* Shop our new arrivals from established brands */
+
+position: absolute;
+height: 18px;
+width: 360px;
+left: 655.3140258789062px;
+top: 2384.591064453125px;
+border-radius: nullpx;
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+
+/* identical to box height */
+
+color: #22262A;
+}
+.pic8{
+    position: absolute;
+    height: 371px;
+    width: 268px;
+    left: 222px;
+    top: 2459.7529296875px;
+    border-radius: 0px;
+    
+    background: url("Rectangle 3_5.png");
+}
+.pic9{
+    position: absolute;
+    height: 371px;
+    width: 268px;
+    left: 515px;
+    top: 2459.7529296875px;
+    border-radius: 0px;
+    
+    background: url("Rectangle _6.png");
+}
+
+.pic10{
+    position: absolute;
+    height: 371px;
+    width: 268px;
+    left: 809px;
+    top: 2459.7529296875px;
+    border-radius: 0px;
+    
+    background: url("Rectangle _7.png");
+}
+
+.pic11{
+    position: absolute;
+    height: 371px;
+    width: 268px;
+    left: 1102px;
+    top: 2459.7529296875px;
+    border-radius: 0px;
+    
+    background: url("Rectangle 3_8.png");
+}
+.iguera11{
+
+    position: absolute;
+    height: 14px;
+    width: 42px;
+    left: 222.38397216796875px;
+    top: 2857.134033203125px;
+    border-radius: nullpx;
+    
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    
+    /* identical to box height */
+    
+    color: #22262A;
+    
+    
+}
+.iguera12{
+    position: absolute;
+    height: 14px;
+    width: 42px;
+    left: 515.3829956054688px;
+    top: 2857.134033203125px;
+    border-radius: nullpx;
+    
+    
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    
+    /* identical to box height */
+    
+    color: #22262A;
+}
+.iguera13{
+    position: absolute;
+    height: 14px;
+    width: 42px;
+    left: 809.3829956054688px;
+    top: 2857.134033203125px;
+    border-radius: nullpx;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    
+    /* identical to box height */
+    
+    color: #22262A;
+}
+.iguera14{
+    position: absolute;
+    height: 14px;
+    width: 42px;
+    left: 1102.384033203125px;
+    top: 2857.134033203125px;
+    border-radius: nullpx;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    
+    /* identical to box height */
+    
+    color: #22262A;
+}
+
+.green11{
+    position: absolute;
+    height: 18px;
+    width: 221px;
+left: 221.7509765625px;
+top: 2890.134033203125px;
+border-radius: nullpx;
+
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    
+    /* identical to box height */
+    
+    color: #22262A;
+    
+    
+}
+.green12{
+    position: absolute;
+    height: 18px;
+    width: 221px;
+left: 514.7509765625px;
+top: 2890.134033203125px;
+border-radius: nullpx;
+
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    
+    /* identical to box height */
+    
+    color: #22262A;
+    
+    
+}
+.green13{
+    position: absolute;
+    height: 18px;
+    width: 221px;
+    left: 808.7520141601562px;
+    top: 2890.134033203125px;
+    border-radius: nullpx;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    
+    /* identical to box height */
+    
+    color: #22262A;
+    
+    
+}
+.green14{
+    position: absolute;
+    height: 18px;
+    width: 221px;
+    left: 1101.751953125px;
+    top: 2890.134033203125px;
+    border-radius: nullpx;
+     
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    
+    /* identical to box height */
+    
+    color: #22262A;
+    
+    
+}
+.price11{
+    position: absolute;
+    height: 18px;
+    width: 96px;
+    left: 224.7509765625px;
+    top: 2926.134033203125px;
+    border-radius: nullpx;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+
+    /* identical to box height */
+
+    color: #373737;
+
+
+}
+.price12{
+    position: absolute;
+    height: 18px;
+    width: 96px;
+    left: 517.7520141601562px;
+    top: 2926.134033203125px;
+    border-radius: nullpx;
+    
+    border-radius: nullpx;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+
+    /* identical to box height */
+
+    color: #373737;
+
+
+    
+}
+.price13{
+    position: absolute;
+    height: 18px;
+width: 96px;
+left: 811.7509765625px;
+top: 2926.134033203125px;
+border-radius: nullpx;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+
+    /* identical to box height */
+
+    color: #373737;
+
+
+}
+.price14{
+    position: absolute;
+    height: 18px;
+    width: 96px;
+    left: 1104.7509765625px;
+    top: 2926.134033203125px;
+    border-radius: nullpx;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+
+    /* identical to box height */
+
+    color: #373737;
+
+
+}
+
+.avone{
+
+position: absolute;
+height: 23px;
+width: 180px;
+left: 744.7349853515625px;
+top: 3053.589111328125px;
+border-radius: nullpx;
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #22262A;
+}
+
+.choose{
+    position: absolute;
+    height: 18px;
+    width: 282px;
+    left: 698.2999877929688px;
+    top: 3087.592041015625px;
+    border-radius: nullpx;
+    
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+
+/* identical to box height */
+
+color: #22262A;
+
+
+}
+.pic12{
+    position: absolute;
+    height: 602px;
+    width: 558px;
+    left: 517px;
+    top: 3213.047119140625px;
+    border-radius: 0px;
+    
+    background: url("1_1.png");
+}
+.pic13{
+    /* Rectangle 2 */
+
+position: absolute;
+height: 745px;
+width: 1593px;
+left: 0px;
+top: 3947.7529296875px;
+border-radius: 0px;
+
+
+background: url("Rectangle 2_2.png");
+}
+
+.own{
+
+position: absolute;
+height: 21px;
+width: 157px;
+left: 221.1929931640625px;
+top: 4356.0830078125px;
+border-radius: nullpx;
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+
+/* identical to box height */
+
+color: #22262A;
+}
+.tachen{
+
+position: absolute;
+height: 94px;
+width: 498px;
+left: 220.1929931640625px;
+top: 4382.35302734375px;
+border-radius: nullpx;
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 80px;
+line-height: 94px;
+
+/* identical to box height */
+
+color: #22262A;
+
+
+}
+.shopc{
+    /* SHOP COLLECTION */
+
+position: absolute;
+height: 21px;
+width: 198px;
+left: 221.1929931640625px;
+top: 4491.080078125px;
+border-radius: nullpx;
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+
+/* identical to box height */
+
+color: #22262A;
+
+
+}
+.shopc2{
+
+position: absolute;
+height: 21px;
+width: 198px;
+left: 245.59600830078125px;
+top: 4549.57080078125px;
+border-radius: nullpx;
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+padding: 12px;
+padding-right: 8px;
+/* identical to box height */
+background-color: #22262A;
+color: #FFFFFF;
+
+
+}
+.copyright{
+    /* Copyright © 2020 . Your companyname All rights reserved */
+
+position: absolute;
+height: 23px;
+width: 624px;
+left: 0px;
+top: 4692.7529296875px;
+padding-bottom:20px;
+padding-top:50px;
+padding-left:558px;
+padding-right:310px;
+border-radius: nullpx;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+color: #22262A;
+background-color: #E7F5F8;
+
+
+}
